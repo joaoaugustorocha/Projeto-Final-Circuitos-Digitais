@@ -8,4 +8,5 @@ Agradeço também aos meus colegas de grupo — Davi, João Pedro e Ian — pela
 Este repositório contém o projeto completo do trabalho de Circuitos Digitais, incluindo o relatório técnico, esquemáticos e arquivos-fonte utilizados no desenvolvimento. A ferramenta usada para o desenvolvimento foi o Wired Panda.
 
 **[📄 Relatório do Projeto](./Relatorio.pdf)**
-**[Git Hub Wired Panda](https://gibis-unifesp.github.io/wiRedPanda/download)**
+
+**[🐼 Git Hub Wired Panda](https://gibis-unifesp.github.io/wiRedPanda/download)**
